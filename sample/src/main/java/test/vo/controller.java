@@ -1,5 +1,7 @@
 package test.vo;
 
-public class controller {
+import javax.servlet.http.HttpServlet;
+
+public class controller extends HttpServlet {
 
 }

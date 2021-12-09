@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletResponse;
 
 public class controller extends HttpServlet {
 	@Override
-	protected void service(HttpServletRequest arg0, HttpServletResponse arg1) throws ServletException, IOException {
-	
+	protected void service(HttpServletRequest req, HttpServletResponse arg1) throws ServletException, IOException {
+		
 	}
 }
